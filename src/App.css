@@ -52,4 +52,18 @@
 .Help{
   background-color: coral;
   background-image: url(logo.svg);
+  text-decoration: underline;
+}
+
+.Fifthcomponent{
+  background-color: red;
+  color: azure;
+  padding: 4;
+}
+
+.Sixthcomponent{
+  background-color: rgb(102, 65, 72);
+  color: cornflowerblue;
+  text-transform: uppercase;
+  text-shadow: #282c34;
 }

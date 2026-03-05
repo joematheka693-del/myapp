@@ -4,6 +4,9 @@ import Firstcomponent from './components/Firstcomponent';
 import Secondcomponent from './components/Secondcomponent';
 import ContactUs from './components/ContactUs';
 import Help from './components/Help';
+import Fifthcomponent from './components/Fifthcomponent';
+import Sixthcomponent from './components/Sixthcomponent';
+import Seventhcomponent from './components/Seventhcomponent';
 
 function App() {
   return (
@@ -18,6 +21,9 @@ function App() {
        <Secondcomponent />
        <ContactUs />
        <Help />
+       <Fifthcomponent />
+       <Sixthcomponent />
+       <Seventhcomponent />
     </div>
   );
 }
@@ -26,4 +32,6 @@ export default App;
 
 // jsx
 
-// Create two other components i.e Contact Us and Help components and style them with your own content.
+// Create two other components i.e Contact Us and Help components and style them with your own content.Render them on App.js component.
+// npm start => node package module
+// npx => node package execute
