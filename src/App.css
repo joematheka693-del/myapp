@@ -67,3 +67,30 @@
   text-transform: uppercase;
   text-shadow: #282c34;
 }
+
+.Notfound{
+  font-size: 65px;
+  color: red;
+  font-weight: 900;
+}
+
+nav{
+  background-color: blue;
+  padding: 20px;
+}
+
+.navlinks{
+  margin: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: burlywood;
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: 500;
+  color: cadetblue;
+}
+
+.navlinks:hover{
+  background-color: brown;
+  color: azure;
+}

@@ -21,6 +21,6 @@ const Seventhcomponent = () => {
 
 export default Seventhcomponent;
 
-// Create a eigthcomponent.jsx. Inside of it, have the useState with the initial value of weight being 50Kgs, have a button to update the weight to 55Kgs when the button is clicked. Render the component on App.js.
+// Create an eigthcomponent.jsx. Inside of it, have the useState with the initial value of weight being 50Kgs, have a button to update the weight to 55Kgs when the button is clicked. Render the component on App.js.
 
 // Reasearch on routing in Reactjs.
